@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Chris Diffie | Home</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <nav>
+                <a href="index.html">Home</a> |
+                <a href="portfolio.html">Portfolio</a> |
+                <a href="contact.html">Contact</a>
+            </nav>
+        </header>
+        <h1>About Me</h1>
+        <center><img src="https://avatars1.githubusercontent.com/u/29157566?v=3&u=53972031c402ed1b849ad161aad194288e16d857&s=400"></center>
+
+        <p>My name is Chris Diffie I am new to the coding world but very excited to give it my all. In my spare time away from learning I like to go airsofting with my friends and lots of drawing while listening to some music.</p>
+
+        <h1>My Background</h1>
+
+        <p> I don't have much backgroung in coding but I am learning all I can about it, I did three year of JROTC at Shadow Mountain High School in the hopes to join the military as a programer. I am mostly self taught in my computer and coding knowledge. </p>
+
+        <h1>Why Programming?</h1>
+
+        <p>I found a passion in programming throughout my love of knowing how things work. I have always taken things apart to see how they work and to put them back together to test myself. Programming is something i have always wanted to learn, to know how everything works. </p>
+
+        <footer>
+            <a href="https://www.instagram.com/dud3ly/">Instagram</a>
+            <a href="https://www.facebook.com/chris.diffie.9">Facebook</a>
+            <a href="https://github.com/Dudl3y">Github</a>
+        </footer>
+    </body>
+</html>
